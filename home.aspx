@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head id="Head1" runat="server">
-    <title>LMK | Home</title>
+    <title>LMK | </title>
     <link rel="stylesheet" type="text/css" href="css/foundation.min.css" />
     <script type="text/javascript" src="js/vendor/jquery.js"></script>
     <script type="text/javascript" src="js/foundation.min.js"></script>
